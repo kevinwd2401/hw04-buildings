@@ -2,6 +2,7 @@
 
 ## Final Render and Video
 
+<img width="1280" height="720" alt="HouseRender" src="https://github.com/user-attachments/assets/2e741018-cc6c-4b75-83b8-10e3400016ae" />
 
 
 In this project, I create a procedural building with a surreal, minimalist style in Houdini. Some methods used originate from this [video](https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini ) by Simon Houdini.
