@@ -8,18 +8,22 @@ In this project, I create a procedural building with a surreal, minimalist style
 
 ## Inspiration
 
-<img width="1073" height="1240" alt="image" src="https://github.com/user-attachments/assets/786c95d2-e622-49e6-89e5-f6e2a49e6c28" />
+<img width="537" height="620" alt="image" src="https://github.com/user-attachments/assets/786c95d2-e622-49e6-89e5-f6e2a49e6c28" />
+
 https://80.lv/articles/realistic-procedural-architecture-for-games
 
 
 
-<img width="1981" height="796" alt="Screenshot 2024-10-22 225215" src="https://github.com/user-attachments/assets/b78f3f45-45da-43a2-ae6a-2d342892c719" />
+<img width="990" height="398" alt="Screenshot 2024-10-22 225215" src="https://github.com/user-attachments/assets/b78f3f45-45da-43a2-ae6a-2d342892c719" />
+
 https://www.pixiv.net/en/artworks/121784384
 
 
 
 <img width="700" height="394" alt="image" src="https://github.com/user-attachments/assets/bc00ffa8-63b9-44b0-ae5b-54684809ff81" />
+
 Habitat 67
+
 
 
 I wanted to create a very irregular piece of architecture that was sharp and geometric in nature. The first image above was my main reference.
