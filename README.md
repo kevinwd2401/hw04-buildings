@@ -1,8 +1,14 @@
 # CIS 5660 HW04 Procedural Buildings
 
 ## Final Render and Video
-In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
-https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini 
+
+
+
+
+
+https://github.com/user-attachments/assets/ab29e397-eb78-4863-ad2b-e5cbf470a005
+
+
 
 In this project, I create a procedural building with a surreal, minimalist style in Houdini. Some methods used originate from this [video](https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini ) by Simon Houdini.
 
@@ -30,6 +36,8 @@ I wanted to create a very irregular piece of architecture that was sharp and geo
 
 ## Workflow
 
+One late day used.
+
 I start off with boxes of randomized dimensions, rotations, and offsets, and I stack them on top of one another as distinct floors using a For Loop and a Match Size node.
 
 
@@ -42,7 +50,10 @@ Next, I merge secondary boxes to each main box. I randomize their dimensions sim
 <img width="1056" height="994" alt="Screenshot 2025-11-04 193901" src="https://github.com/user-attachments/assets/eaa47477-e212-43cb-988c-63f86eb986ce" />
 
 
-Using the intersection of a plane with the geometry, I extract the perimeter of each floor, and use the chain node to find appropriate points for placing assets. These points become the locations for my windows, doors, and balconies, also procedurally made in Houdini. I then give the top-most box a roof.
+Using the intersection of a plane with the geometry, I extract the perimeter of each floor, and use the chain node to find appropriate points for placing assets. These points become the locations for my windows, doors, and balconies, also procedurally made in Houdini and allowing for variation through parameters. I then give the top-most box a roof.
+
+
+<img width="1053" height="864" alt="Screenshot 2025-11-04 223653" src="https://github.com/user-attachments/assets/a5f2962a-f854-4e5c-a8f1-6189079fdfb9" />
 
 
 <img width="947" height="977" alt="Screenshot 2025-11-04 194028" src="https://github.com/user-attachments/assets/6c6a679e-9b00-485c-a201-222beaabbb90" />
